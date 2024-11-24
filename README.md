@@ -1,2 +1,2 @@
-# STUDENT-MANAGEMENT-SYSTEM
-#studentmanagement
+# STUDENT-MANAGEMENT
+Student Management
